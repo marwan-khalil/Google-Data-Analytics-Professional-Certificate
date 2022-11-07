@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Professional-Certificate
+# Google Data Analytics Professional Certificate
 ## Certificate of Google Data Analytics
 * [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5MNCTXM5C3YQ)
 ## Badge of Google Data Analytics
